@@ -4,7 +4,7 @@ document.write("<i>My is Sunny</i>")
 
 var a = "Sunny";
 a = 'don';
-document.write(a)
+// document.write(a)
 // lesson 2 end
 
 // "hello world" String
